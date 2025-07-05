@@ -1,10 +1,8 @@
 # Welcome in my github this my project 3 in my plan to create 100 website
 
 ## Project info
-
-
 **Use your preferred IDE**
-
+ 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 Follow these steps:
 
